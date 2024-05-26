@@ -1,4 +1,4 @@
-# Welcome to [Your Website Name]
+# Welcome to TechStore
 
 ## Introduction
 TechStore is your one-stop destination for all things electronic. From smartphones to laptops, we've got the latest gadgets to elevate your tech game.
