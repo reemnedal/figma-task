@@ -15,9 +15,8 @@ TechStore is your one-stop destination for all things electronic. From smartphon
 ## Get Started
 1. **Sign Up**: Click on the sign-up button and fill in your details.
 2. **Login**: Once signed up, log in to your account to start browsing.
-3. **Explore**: Visit the Home page to discover our products and leave feedback.
-4. **Feedback**: Have a suggestion or comment? Share it in the Feedback section.
-5. **Profile**: Manage your account settings,you can rest your password and change email address.
+3. **Feedback**: Have a suggestion or comment? Share it in the Feedback section.
+4. **Profile**: Manage your account settings,you can rest your password and change email address.
 
  
  
